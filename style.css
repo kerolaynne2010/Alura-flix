@@ -1,2 +1,9 @@
 body{
-    background-color: rgb(11, 221, 151):
+    background-color: r
+    color:
+    font-family: "Bitcount Grid Double", system-ui;
+header{
+    font-size: 50px;
+}
+h1{
+    font-size: 30px;
