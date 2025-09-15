@@ -3,7 +3,12 @@ body{
     color:
     font-family: "Bitcount Grid Double", system-ui;
 header{
-    font-size: 50px;
+    font-size: 60px;
+    border: solid 5px red;
 }
 h1{
-    font-size: 30px;
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
