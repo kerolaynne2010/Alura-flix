@@ -1,14 +1,23 @@
+
 body{
-    background-color: r
-    color:
-    font-family: "Bitcount Grid Double", system-ui;
+    background-color: aquamarine;
+    color: rgb(205, 123, 8);
+    font-family: "Epunda Slab", serif;
+    margin: 0px;
+}
+
 header{
-    font-size: 60px;
-    border: solid 5px red;
+    font-size: 50px;
+    border-style:  double  5px red;
+    text-align: center;
+   /* margin: 30px;*/
+   padding: 25px; ;
 }
+
 h1{
-    font-size: 40px;
+    font-size: 30px;
 }
+
 p{
-    font-size: 20px;
+    font-size: 20px
 }
