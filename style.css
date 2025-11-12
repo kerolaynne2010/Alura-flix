@@ -12,6 +12,7 @@ header{
     text-align: center;
    /* margin: 30px;*/
    padding: 25px; ;
+   color: rgb(161, 14, 14);
 }
 
 h1{
@@ -20,4 +21,11 @@ h1{
 
 p{
     font-size: 20px
+}
+
+section{
+background-color: rgb(9, 233, 233);
+padding-bottom: 80px;
+display: flex;
+justify-content: center;
 }
