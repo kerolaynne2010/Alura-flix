@@ -28,4 +28,10 @@ background-color: rgb(9, 233, 233);
 padding-bottom: 80px;
 display: flex;
 justify-content: center;
+
 }
+.chamada-texto{
+    margin-right: 10%;
+}
+
+
